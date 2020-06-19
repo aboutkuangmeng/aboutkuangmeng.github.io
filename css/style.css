@@ -465,7 +465,7 @@ input[type="radio"]:not(:checked) + label:after {
   padding: 0;
 }
 .navbar .menu a {
-  padding: 0 8px;
+  padding: 0 2px;
 }
 .navbar .menu .active {
   font-weight: 900;
