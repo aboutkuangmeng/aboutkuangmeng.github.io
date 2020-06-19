@@ -1116,7 +1116,7 @@ header label {
 
 @media screen and (max-width: 479px) {
   .main {
-    padding-top: 10pt;
+    padding-top: 0pt;
   }
   .navbar {
     display: none;
