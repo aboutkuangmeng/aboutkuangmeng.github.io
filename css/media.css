@@ -20,9 +20,10 @@
     border-width: 0.1em;
   }
   .navbar-mobile .container {
-    margin: 1em auto;
+    margin: 0em auto;
     height: 5em;
     line-height: 3em;
+    padding-top: 1em;
     background: $light-background-color;
   }
   .navbar-mobile .container .navbar-header {
