@@ -8,6 +8,7 @@
   }
   body {
     min-width: 0px !important;
+    min-height: 0px !important;
   }
   .navbar-mobile {
     display: block !important;
@@ -20,8 +21,8 @@
   }
   .navbar-mobile .container {
     margin: 0;
-    height: 3em;
-    line-height: 2.5em;
+    height: 4em;
+    line-height: 2em;
     background: $light-background-color;
   }
   .navbar-mobile .container .navbar-header {

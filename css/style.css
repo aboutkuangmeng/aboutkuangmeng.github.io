@@ -1130,6 +1130,7 @@ header label {
   }
   body {
     min-width: 0px !important;
+    min-height: 0px !important;
   }
   .navbar-mobile {
     display: block !important;
@@ -1142,8 +1143,8 @@ header label {
   }
   .navbar-mobile .container {
     margin: 0;
-    height: 3em;
-    line-height: 2.5em;
+    height: 4em;
+    line-height: 2em;
     background: #fff;
   }
   .navbar-mobile .container .navbar-header {
