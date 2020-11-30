@@ -21,7 +21,7 @@
   }
   .navbar-mobile .container {
     margin: 0 auto;
-    height: 4em;
+    height: 5em;
     line-height: 2em;
     background: $light-background-color;
   }
@@ -37,7 +37,7 @@
   }
   .navbar-mobile .container .navbar-header .menu-toggle {
     cursor: pointer;
-    line-height: 4em;
+    line-height: 2em;
     padding: auto 1em;
   }
   .navbar-mobile .container .navbar-header .menu-toggle span {
@@ -93,7 +93,7 @@
   .navbar-mobile .container .menu a {
     display: inline-block;
     margin: 0 1em;
-    line-height: 2.5em;
+    line-height: 2em;
   }
   .navbar-mobile .container .menu.active {
     display: block;
