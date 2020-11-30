@@ -1148,8 +1148,8 @@ header label {
   .navbar-mobile .container {
     margin: 0em auto;
     height: 4em;
-    line-height: 2.5em;
-    padding: auto 1em;
+    line-height: 2em;
+    padding-top: 1em;
     background: #fff;
   }
   .navbar-mobile .container .navbar-header {
