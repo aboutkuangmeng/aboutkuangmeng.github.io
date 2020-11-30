@@ -15,7 +15,7 @@
   text-align: center;
   margin: 0 auto;
   display: flex;
-  padding-top: -5em;
+  border-bottom-style: solid;
   justify-content: space-between;
 }
 .main {
@@ -26,7 +26,7 @@
 .container {
   padding-left: 1em;
   padding-right: 1em;
-  padding-top: -5em;
+  border-bottom-style: solid;
 }
 .footer {
   height: 4rem;

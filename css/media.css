@@ -14,7 +14,7 @@
     transition: all 0.6s ease 0s;
   }
   .navbar-mobile .container {
-    padding: -5em;
+    border-bottom-style: solid;
     margin: 0;
     line-height: 3.5em;
     background: $light-background-color;
