@@ -22,7 +22,7 @@
   .navbar-mobile .container {
     margin: 0em auto;
     line-height: 2em;
-    padding: auto 0;
+    padding: auto 1em;
     background: $light-background-color;
   }
   .navbar-mobile .container .navbar-header {
