@@ -1130,7 +1130,6 @@ header label {
   }
   body {
     min-width: 0px !important;
-    min-height: 800px !important;
   }
   .navbar-mobile {
     display: block !important;
@@ -1143,7 +1142,8 @@ header label {
   }
   .navbar-mobile .container {
     margin: 0;
-    line-height: 3.5em;
+    height: 3em;
+    line-height: 2.5em;
     background: #fff;
   }
   .navbar-mobile .container .navbar-header {
@@ -1236,13 +1236,13 @@ header label {
     display: none;
   }
   .intro {
-    transform: translateY(13vh) !important;
+    transform: translateY(14vh) !important;
   }
   #dynamic-to-top {
     display: none !important;
   }
   .footer {
-    height: 3rem;
+    height: 2rem;
     width: 100%;
     text-align: center;
     line-height: 1.5rem;
