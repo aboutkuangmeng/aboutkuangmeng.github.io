@@ -166,7 +166,7 @@ html::-webkit-scrollbar-thumb:hover {
 }
 body {
   min-width: 700px;
-  min-height: 700px;
+  min-height: 800px;
   font-size: 11pt;
   font-weight: normal;
   line-height: 2em;
@@ -1127,6 +1127,10 @@ header label {
   }
   .navbar {
     display: none;
+  }
+  body {
+    min-width: 0px !important;
+    min-height: 0px !important;
   }
   .navbar-mobile {
     display: block !important;

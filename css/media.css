@@ -6,6 +6,10 @@
   .navbar {
     display: none;
   }
+  body {
+    min-width: 0px !important;
+    min-height: 0px !important;
+  }
   .navbar-mobile {
     display: block !important;
     position: fixed;
