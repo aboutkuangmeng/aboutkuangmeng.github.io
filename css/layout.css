@@ -8,14 +8,17 @@
   height: 4rem;
   line-height: 4rem;
   width: 100%;
+  border-bottom-style: dotted;
+  border-width: 0.1em;
 }
 .navbar .container {
   width: auto;
-  max-width: 1200px;
+  max-width: 20000px;
+  padding-left: 5em;
+  padding-right: 5em;
   text-align: center;
   margin: 0 auto;
   display: flex;
-  border-bottom-style: solid;
   justify-content: space-between;
 }
 .main {
@@ -26,7 +29,6 @@
 .container {
   padding-left: 1em;
   padding-right: 1em;
-  border-bottom-style: solid;
 }
 .footer {
   height: 4rem;

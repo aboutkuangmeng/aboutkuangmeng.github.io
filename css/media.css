@@ -12,9 +12,10 @@
     width: 100%;
     z-index: 100;
     transition: all 0.6s ease 0s;
+    border-bottom-style: dotted;
+    border-width: 0.1em;
   }
   .navbar-mobile .container {
-    border-bottom-style: solid;
     margin: 0;
     line-height: 3.5em;
     background: $light-background-color;
