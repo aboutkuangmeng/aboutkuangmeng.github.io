@@ -1130,7 +1130,7 @@ header label {
     transition: all 0.6s ease 0s;
   }
   .navbar-mobile .container {
-    padding: 0;
+    padding: -5em;
     margin: 0;
     line-height: 5.5em;
     background: #fff;
