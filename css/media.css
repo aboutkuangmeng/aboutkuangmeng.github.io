@@ -21,7 +21,6 @@
   }
   .navbar-mobile .container {
     margin: 0em auto;
-    height: 4em;
     line-height: 2em;
     padding: auto 0;
     background: $light-background-color;
