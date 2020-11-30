@@ -227,6 +227,7 @@ a:hover {
   text-align: center;
   margin: 0 auto;
   display: flex;
+  padding-top: -5em;
   justify-content: space-between;
 }
 .main {
@@ -237,6 +238,7 @@ a:hover {
 .container {
   padding-left: 1em;
   padding-right: 1em;
+  padding-top: -5em;
 }
 .footer {
   height: 4rem;
@@ -1132,7 +1134,7 @@ header label {
   .navbar-mobile .container {
     padding: -5em;
     margin: 0;
-    line-height: 5.5em;
+    line-height: 3.5em;
     background: #fff;
   }
   .navbar-mobile .container .navbar-header {
