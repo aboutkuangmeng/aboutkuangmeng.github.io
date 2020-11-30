@@ -1130,7 +1130,7 @@ header label {
   }
   body {
     min-width: 0px !important;
-    min-height: 0px !important;
+    min-height: 800px !important;
   }
   .navbar-mobile {
     display: block !important;
@@ -1236,7 +1236,7 @@ header label {
     display: none;
   }
   .intro {
-    transform: translateY(10vh) !important;
+    transform: translateY(13vh) !important;
   }
   #dynamic-to-top {
     display: none !important;
