@@ -109,6 +109,9 @@
   .archive .archive-item .archive-item-date {
     display: none;
   }
+  .intro {
+    transform: translateY(5vh) !important;
+  }
   #dynamic-to-top {
     display: none !important;
   }

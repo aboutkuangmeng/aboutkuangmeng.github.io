@@ -238,7 +238,7 @@ a:hover {
   flex-shrink: 0;
   flex-basis: auto;
 }
-.container {
+.main .container {
   padding-left: 1em;
   padding-right: 1em;
 }
@@ -567,7 +567,7 @@ header label {
 .intro {
   transform: translateY(20vh);
   text-align: center;
-  padding-top: -20px;
+  padding-top: -30em;
 }
 .intro .avatar {
   padding: 10px;
@@ -1228,6 +1228,9 @@ header label {
   }
   .archive .archive-item .archive-item-date {
     display: none;
+  }
+  .intro {
+    transform: translateY(5vh) !important;
   }
   #dynamic-to-top {
     display: none !important;
