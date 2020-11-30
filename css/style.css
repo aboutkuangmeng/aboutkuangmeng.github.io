@@ -1142,7 +1142,7 @@ header label {
     border-width: 0.1em;
   }
   .navbar-mobile .container {
-    margin: 0;
+    margin: 0 auto;
     height: 4em;
     line-height: 2em;
     background: #fff;
@@ -1159,8 +1159,8 @@ header label {
   }
   .navbar-mobile .container .navbar-header .menu-toggle {
     cursor: pointer;
-    line-height: 5.5em;
-    padding: auto 2em;
+    line-height: 4em;
+    padding: auto 1em;
   }
   .navbar-mobile .container .navbar-header .menu-toggle span {
     display: block;
