@@ -8,7 +8,6 @@
   }
   body {
     min-width: 0px !important;
-    min-height: 800px !important;
   }
   .navbar-mobile {
     display: block !important;
@@ -114,7 +113,7 @@
     display: none;
   }
   .intro {
-    transform: translateY(13vh) !important;
+    transform: translateY(14vh) !important;
   }
   #dynamic-to-top {
     display: none !important;
