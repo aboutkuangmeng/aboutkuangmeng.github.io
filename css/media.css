@@ -115,8 +115,8 @@
     display: none;
   }
   .description {
-    max-width: 460px;
-    min-width: 460px;
+    max-width: 460px !important;
+    min-width: 460px !important;
     margin: 0 auto;
   }
   .intro {
