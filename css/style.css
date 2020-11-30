@@ -165,6 +165,8 @@ html::-webkit-scrollbar-thumb:hover {
   background-color: #ddd;
 }
 body {
+  min-width: 700px;
+  min-height: 700px;
   font-size: 11pt;
   font-weight: normal;
   line-height: 2em;
@@ -1230,7 +1232,7 @@ header label {
     display: none;
   }
   .intro {
-    transform: translateY(5vh) !important;
+    transform: translateY(10vh) !important;
   }
   #dynamic-to-top {
     display: none !important;

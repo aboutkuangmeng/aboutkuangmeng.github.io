@@ -110,7 +110,7 @@
     display: none;
   }
   .intro {
-    transform: translateY(5vh) !important;
+    transform: translateY(10vh) !important;
   }
   #dynamic-to-top {
     display: none !important;
